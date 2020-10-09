@@ -24,3 +24,9 @@ All’avvio del programma, si richiede che l’utente possa eseguire le seguenti
   3. Terminare, solo se tutte le richieste sono state soddisfatte.
 
 Implementare, inoltre, un criterio per evitare deadlock dovuti a richieste sospese, che non possono effettivamente essere soddisfatte.
+
+<H1> Documentazione </H1>
+La documentazione compelta del software è disponibile al seguente <a href="https://drive.google.com/file/d/1QAaTTZNlWSPke06zdgybtUkxjEh9v21X/view?usp=sharing"> link</a>.
+In tale documentazione è possibile reperire:
+  • Manuale d'uso
+  • Descrizione delle strutture dati utilizzate e dei costi in termini di tempo degli algoritmi implementati su di esse
