@@ -1,5 +1,5 @@
 # LASD-project-1
-Progetto di Laboratorio di Algoritmi e Strutture dati su l'utilizzo di alberi binari di ricerca.
+Progetto di Laboratorio di Algoritmi e Strutture dati sull'utilizzo di alberi binari di ricerca.
 
 <H1>Specifiche :</H1>
 Si progetti un programma per la gestione di una biblioteca per studenti. Gli attori principali sono:<br>
