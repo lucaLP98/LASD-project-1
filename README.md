@@ -1,7 +1,7 @@
 # LASD-project-1
 First laboratory project of algorithms and data structures
 
-Specifiche :
+<H1>Specifiche :</H1>
 Si progetti un programma per la gestione di una biblioteca per studenti. Gli attori principali sono:
   • La biblioteca, un insieme di libri identificati da un titolo univoco;
   • Gli studenti, identificati da una matricola univoca.
