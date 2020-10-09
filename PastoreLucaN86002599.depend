@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1589064855 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\main.c
+	"library.h"
+	"student_requests.h"
+
+1588473332 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\abr_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588473332 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\abr_tree.c
+	"ABR_tree.h"
+
+1588977163 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\library.c
+	"library.h"
+
+1588982642 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\library.h
+	"book_tree.h"
+	<ctype.h>
+
+1588545698 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1588545648 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\queue.h
+
+1588732105 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\request_queue.c
+	"request_queue.h"
+
+1589072573 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\request_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1589079586 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\student_requests.c
+	"student_requests.h"
+
+1588841470 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\student_requests.h
+	"library.h"
+	"request_queue.h"
+	"request_tree.h"
+	"student_tree.h"
+
+1588893035 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\request_tree.c
+	"request_tree.h"
+
+1588893035 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\request_tree.h
+	"request_queue.h"
+	<string.h>
+
+1589079586 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\book_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589079598 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\book_tree.c
+	"book_tree.h"
+
+1588735449 source:d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\student_tree.c
+	"student_tree.h"
+
+1588881091 d:\università\progettolasd_pastoreluca_n86002599\pastorelucan86002599\student_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"book_tree.h"
+
+1589079598 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\book_tree.c
+	"book_tree.h"
+
+1589079586 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\book_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588977163 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\library.c
+	"library.h"
+
+1588982642 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\library.h
+	"book_tree.h"
+	<ctype.h>
+
+1590621584 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\main.c
+	"library.h"
+	"student_requests.h"
+
+1588841470 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\student_requests.h
+	"library.h"
+	"request_queue.h"
+	"request_tree.h"
+	"student_tree.h"
+
+1589072573 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\request_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1588893035 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\request_tree.h
+	"request_queue.h"
+	<string.h>
+
+1588881091 d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\student_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"book_tree.h"
+
+1588732105 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\request_queue.c
+	"request_queue.h"
+
+1588893035 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\request_tree.c
+	"request_tree.h"
+
+1590621643 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\student_requests.c
+	"student_requests.h"
+
+1588735449 source:d:\università\secondo_anno\laboratorio di asd\proggetti_lasd\proggetto1_individuale\pastoreluca_n86002599\student_tree.c
+	"student_tree.h"
+
